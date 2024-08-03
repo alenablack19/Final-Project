@@ -1,2 +1,2 @@
 # Final-Project
-Final Project for Appointment Schuler
+Final Project for Appointment Scheduler
